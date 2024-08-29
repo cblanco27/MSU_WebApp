@@ -1,2 +1,2 @@
 READ ME
-Participents: Jack Reed, 
+Participents: Jack Reed, +MORE
